@@ -24,7 +24,7 @@ const Projects = () => {
     {
       id: 4,
       src: portfolio,
-      href: "https://github.com/Sricharan24/ProfanityCheckeer-DiscordBot"
+      href: "https://github.com/Sricharan24/Portfolio"
     },
   ];
 
