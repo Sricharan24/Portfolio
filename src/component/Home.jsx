@@ -15,7 +15,7 @@ const Home = () => {
 
                 </h2>
                 <p className="text-gray-400 py-4 max-w-md">
-                    I am a Sophomore student studying Computer Science at the University of California, Riverside. I am currently looking for Internships in the software engineering field. Feel free to contact me using my contact page.
+                    I am a Junior student studying Computer Science at the University of California, Riverside. I am currently looking for Internships in the software engineering field. Feel free to contact me using my contact page.
                 </p>
                 <div>
                     <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-red-300 to-red-600 cursor-pointer">
